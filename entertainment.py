@@ -20,6 +20,6 @@ django_unchained = media.Movie("Django unchained",
                                "http://t3.gstatic.com/images?q=tbn:ANd9GcSnm2FczCxSnt69XUZqqI5-sfy66SvjiV0du9mfUKRRCGqVAurt",
                                "https://www.youtube.com/watch?v=eUdM9vrCbow")
 
-#
+#these are calling to open the movie website and to show what the python code holds on file
 movies = [slc_punk, kill_bill,django_unchained]
 fresh_tomatoes.open_movies_page(movies)
