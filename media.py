@@ -3,7 +3,7 @@
 #it is creating a class that will hold all you movie information
 #the self is an instance method, it represents the instance that is calling it
 #example: self(the method or convention) is being called by the instance .title
-#
+#the init being defined is intializing the data for the class movie
 class Movie():
     def __init__(self,movie_title, movie_storyline, poster_image,
                  trailer_youtube):
