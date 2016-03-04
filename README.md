@@ -4,7 +4,7 @@ The movie trailer website is a simple python coded file, it lets people see a fe
 
 ##Documentation
 
-You can take a look at the [Python Library](https://docs.python.org/2/library/), for a descriptions of all the built in functions python has.
+You can take a look at the [Python Library](https://docs.python.org/2/library/), for a description of all the built in functions python has to offer.
 
 ##Installion 
 
