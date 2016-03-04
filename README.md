@@ -1,6 +1,6 @@
 #Movie Trailer Website 
 
-The movie trailer website is a simple python coded file, it lets people see a few of my personal favorite movies. It uses one class, a def, class variables, constructors, instane methods(self), etc. There are three files, imported onto one. 
+The movie trailer website is a simple python coded file, it lets people see a few of my personal favorite movies. It uses a class, a def, class variables, constructors, instane methods(self), etc. There are three files, imported onto one(media.py file which holds the class, entertainment.py a seperate file for the instances, and a fresh_tomatoes.py for the desgin and functionality)
 
 ##Documentation
 
