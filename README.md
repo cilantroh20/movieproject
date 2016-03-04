@@ -14,4 +14,7 @@ I also recommend downloading the [fresh_tomatoes.py](https://github.com/adarsh08
 
 If you need further assitance, i would take a look at the [Programming Foundation with Python](https://www.udacity.com/course/viewer#!/c-ud036-nd/l-990110642/m-3625658739), lesson 3a,  a class that Udacity offers.
 
+##License
+
+Feel free to play with this code any way that you like!
 
