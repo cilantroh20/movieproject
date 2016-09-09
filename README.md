@@ -8,7 +8,7 @@ You can take a look at the [Python Library](https://docs.python.org/2/library/),
 
 ##Installion 
 
-To get this code up and running i suggest that you download [Pyhton 2.7] (https://www.python.org/download/releases/2.7/) to have access to their libraries, so you don't run into any problems trying to import things that aren't downloaded onto your computer.
+To get this code up and running i suggest that you download [Python 2.7] (https://www.python.org/download/releases/2.7/) to have access to their libraries, so you don't run into any problems trying to import things that aren't downloaded onto your computer.
 
 I also recommend downloading the [fresh_tomatoes.py](https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py) file for the design, and functionality of the website(make sure that all your files for the website are saved into the same folder, or else you'll have complications). Or, you can start from scrath and do your own thing!
 
