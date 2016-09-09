@@ -11,6 +11,7 @@ class Movie():
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
-        
+#this is another instances method
+#show_trailer is to open up the webbrowser and go where it is specified to 
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
