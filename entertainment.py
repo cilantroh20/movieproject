@@ -1,5 +1,5 @@
 #seperate files that are pre-coded
-import 
+import media
 import fresh_tomatoes
 
 #media.Movie is a seperate file that has the class movie which is defined in the media file
